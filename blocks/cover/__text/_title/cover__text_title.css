@@ -1,0 +1,27 @@
+.cover__text_title{
+    font-family: 'Inter Bold',sans-serif;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 76px;
+    margin: 0 auto;
+    text-align: center;
+    width: 47.5%;
+    color: #ffffff;
+}
+@media  screen and (max-width: 1279px) {
+    .cover__text_title{
+        width: 54.7%;
+    }
+}
+@media  screen and (max-width: 1023px) {
+    .cover__text_title{
+        width: 72.9%;
+    }
+}
+@media  screen and (max-width: 767px) {
+    .cover__text_title{
+        width: 90%;
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

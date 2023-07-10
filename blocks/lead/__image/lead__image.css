@@ -1,0 +1,22 @@
+.lead__image{
+    background-image: url(../../../../russian-travel/images/poezd.png);
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 64px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    background-size: contain;
+
+}
+@media screen and (max-width:1279px) {
+    .lead__image{
+        width: 100%;
+        margin-top: 56px;
+    }
+}
+@media screen and (max-width:767px) {
+    .lead__image{
+        margin-top: 40px;
+    }
+}
