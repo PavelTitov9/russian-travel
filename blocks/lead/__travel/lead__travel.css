@@ -1,24 +1,22 @@
-.lead__image_travel{
+.lead__travel{
     width: 95.2%;
     height: min-content;
-    margin: 0 auto;
-    margin-top: 90px;
-    margin-bottom: 261px;
+    margin: 90px auto 261px auto;
 }
 @media screen and (max-width:1279px) {
-    .lead__image_travel{
+    .lead__travel{
         width: 95.1%;
         margin-bottom: 250px;
     }
 }
 @media screen and (max-width:1023px) {
-    .lead__image_travel{
+    .lead__travel{
        margin-top: 70px;
        margin-bottom: 204px;
     }
 }
 @media screen and (max-width:767px) {
-    .lead__image_travel{
+    .lead__travel{
        margin-top: 29px;
        margin-bottom: 85px;
     }

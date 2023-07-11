@@ -1,8 +1,7 @@
 .lead__image{
     background-image: url(../../../../russian-travel/images/poezd.png);
     width: 100%;
-    margin: 0 auto;
-    margin-top: 64px;
+    margin:64px 0 0 auto;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;

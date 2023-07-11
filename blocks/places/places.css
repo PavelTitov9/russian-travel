@@ -14,11 +14,13 @@
     .places{
        max-width: 93.7%;
        row-gap: 73px;
+       margin-top: 88px;
     }
 }
 @media screen and (max-width:767px) {
     .places{
        max-width: 100%;
        row-gap: 50px;
+       margin-top: 64px;
     }
 }

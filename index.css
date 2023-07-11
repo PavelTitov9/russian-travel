@@ -11,7 +11,7 @@
 @import url(../russian-travel/blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../russian-travel/blocks/lead/__image/lead__image.css);
 @import url(../russian-travel/blocks/lead/__caption/lead__caption.css);
-@import url(../russian-travel/blocks/lead/__image/_travel/lead__image_travel.css);
+@import url(../russian-travel/blocks/lead/__travel/lead__travel.css);
 
 @import url(../russian-travel/blocks/intro/intro.css);
 @import url(../russian-travel/blocks/intro/__title/intro__title.css);
@@ -27,16 +27,15 @@
 @import url(../russian-travel/blocks/place/__title/place__title.css);
 @import url(../russian-travel/blocks/place/__image/place__image.css);
 @import url(../russian-travel/blocks/place/__website/place__website.css);
-@import url(../russian-travel/blocks/place/__website/_link/place__website_link.css);
-@import url(../russian-travel/blocks/place/__website/_url-heading/place__website_url-heading.css);
+@import url(../russian-travel/blocks/place/__link/place__link.css);
+@import url(../russian-travel/blocks/place/__url-heading/place__url-heading.css);
 @import url(../russian-travel/blocks/place/__text/place__text.css);
-@import url(../russian-travel/blocks/place/__text/_paragraph/place__text_paragraph.css);
+@import url(../russian-travel/blocks/place/__paragraph/place__paragraph.css);
 
 @import url(../russian-travel/blocks/cover/cover.css);
-@import url(../russian-travel/blocks/cover/__background/cover__background.css);
-@import url(../russian-travel/blocks/cover/__text/cover__text.css);
-@import url(../russian-travel/blocks/cover/__text/_subtitle/cover__text_subtitle.css);
-@import url(../russian-travel/blocks/cover/__text/_title/cover__text_title.css);
+@import url(../russian-travel/blocks/cover/__overlay/cover__overlay.css);
+@import url(../russian-travel/blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../russian-travel/blocks/cover/__title/cover__title.css);
 
 @import url(../russian-travel/blocks/footer/footer.css);
 @import url(../russian-travel/blocks/footer/__column/footer__column.css);
