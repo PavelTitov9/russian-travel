@@ -1,11 +1,12 @@
 .lead__image{
     background-image: url(../../../../russian-travel/images/poezd.png);
     width: 100%;
-    margin:64px 0 0 auto;
+    margin: 64px 0 0 auto;
     background-repeat: no-repeat;
+    background-position: center;
     display: flex;
     justify-content: center;
-    background-size: contain;
+    background-size: cover;
 
 }
 @media screen and (max-width:1279px) {

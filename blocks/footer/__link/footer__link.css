@@ -1,4 +1,4 @@
-.footer__column_link{
+.footer__link{
     font-family: 'Inter Ragular',sans-serif;
     margin-right: 18px;
     font-size: 16px;
@@ -7,10 +7,10 @@
     text-decoration: none;
     color: #ffffff;
 }
-.footer__column_link:hover{
+.footer__link:hover{
     cursor: pointer;
     opacity: 80%;
 }
-.footer__column_links li:last-child .footer__column_link {
+.footer__column_links li:last-child .footer__link {
     margin: 0;
   }

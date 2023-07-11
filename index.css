@@ -39,5 +39,5 @@
 
 @import url(../russian-travel/blocks/footer/footer.css);
 @import url(../russian-travel/blocks/footer/__column/footer__column.css);
-@import url(../russian-travel/blocks/footer/__column/_link/footer__column_link.css);
-@import url(../russian-travel/blocks/footer/__column/_copyright/footer__column_copyright.css);
+@import url(../russian-travel/blocks/footer/__copyright/footer__copyright.css);
+@import url(../russian-travel/blocks/footer/__link/footer__link.css);
