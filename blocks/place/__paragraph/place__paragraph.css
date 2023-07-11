@@ -1,5 +1,5 @@
 .place__paragraph{
-    font-family: 'Inter Regular',sans-serif;
+    font-family: 'Inter',Arial, Helvetica,sans-serif;
     margin: 0;
     font-size: 18px;
     font-weight: 400;
@@ -11,3 +11,8 @@
        line-height: 26px;
     }
 }
+@media screen and (max-width:767px) {
+    .place__paragraph{
+       padding: 0 16px;
+    }
+ }

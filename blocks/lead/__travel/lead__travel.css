@@ -1,23 +1,21 @@
 .lead__travel{
-    width: 95.2%;
-    height: min-content;
-    margin: 90px auto 261px auto;
+    background-image: url(../../../images/poezd.png);
+    width: 100%;
+    margin: 64px 0 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
 }
 @media screen and (max-width:1279px) {
     .lead__travel{
-        width: 95.1%;
-        margin-bottom: 250px;
-    }
-}
-@media screen and (max-width:1023px) {
-    .lead__travel{
-       margin-top: 70px;
-       margin-bottom: 204px;
+        width: 100%;
+        margin-top: 56px;
     }
 }
 @media screen and (max-width:767px) {
     .lead__travel{
-       margin-top: 29px;
-       margin-bottom: 85px;
+        margin-top: 40px;
     }
 }
