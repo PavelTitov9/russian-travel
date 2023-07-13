@@ -3,3 +3,13 @@
     flex-direction: column;
     gap: 26px;
 }
+@media screen and (max-width:1279px) {
+    .place__text{
+        gap: 27px;
+    }
+}
+ @media screen and (max-width:1023px) {
+    .place__text{
+        gap: 25px;
+    }
+}

@@ -6,6 +6,13 @@
     line-height: 28px;
     text-decoration: none;
 }
+.header__link:first-child{
+    margin-right: 18px;
+}
+.header__link:hover{
+    opacity: 80%;
+    cursor: pointer;
+}
 @media screen and (max-width:767px) {
     .header__link{
         font-size: 18px;

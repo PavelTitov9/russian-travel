@@ -2,4 +2,4 @@
 Адаптивная верстка сайта с использованием flex-box и grid
 
 Ссылка на проект:
-https://github.com/PavelTitov9/russian-travel
+https://paveltitov9.github.io/russian-travel/index.html
